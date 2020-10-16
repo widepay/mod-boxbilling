@@ -10,7 +10,7 @@ Módulo desenvolvido para integração entre o sistema BoxBilling e Wide Pay. Co
 # Instalação Plugin
 
 1. Para a instalação do plugin realize o download do zip pelo link: https://github.com/widepay/mod-boxbilling
-2. Após o download concluído, você deve extrair os arquivos e mescalar com as pastas do seu projeto BoxBilling.
+2. Após o download concluído, você deve extrair os arquivos e mesclar com as pastas do seu projeto BoxBilling.
 3. É preciso ativar o plugin, para isso acesse o menu: BoxBilling -> Configuration -> Payment Gateways -> New Payment Gateway-> Wide Pay -> Adicionar.
 
 # Configuração do Plugin
